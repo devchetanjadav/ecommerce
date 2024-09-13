@@ -27,7 +27,7 @@ export default function About(){
 					      We are <span>ThewayShop</span>
 					    </h2>
 					    <p>
-					      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+					      Sed ut perspiciatis unde omnis iste natus error sit voluptatem
 					      accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
 					      ab illo inventore veritatis et quasi architecto beatae vitae dicta
 					      sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
@@ -39,7 +39,7 @@ export default function About(){
 					      exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex
 					      ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in
 					      ea voluptate velit esse quam nihil molestiae consequatur, vel illum
-					      qui dolorem eum fugiat quo voluptas nulla pariatur?"
+					      qui dolorem eum fugiat quo voluptas nulla pariatur?
 					    </p>
 					    <p>
 					      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -50,7 +50,6 @@ export default function About(){
 					  </div>
 					  <div className="col-lg-6">
 					    <div className="banner-frame">
-					      {" "}
 					      <img
 					        className="img-thumbnail img-fluid"
 					        src="images/about-img.jpg"
@@ -65,7 +64,7 @@ export default function About(){
 					      <h3>We are Trusted</h3>
 					      <p>
 					        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					        eiusmod tempor incididunt ut labore et dolore magna aliqua.{" "}
+					        eiusmod tempor incididunt ut labore et dolore magna aliqua.
 					      </p>
 					    </div>
 					  </div>
@@ -74,7 +73,7 @@ export default function About(){
 					      <h3>We are Professional</h3>
 					      <p>
 					        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					        eiusmod tempor incididunt ut labore et dolore magna aliqua.{" "}
+					        eiusmod tempor incididunt ut labore et dolore magna aliqua.
 					      </p>
 					    </div>
 					  </div>
@@ -83,7 +82,7 @@ export default function About(){
 					      <h3>We are Expert</h3>
 					      <p>
 					        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					        eiusmod tempor incididunt ut labore et dolore magna aliqua.{" "}
+					        eiusmod tempor incididunt ut labore et dolore magna aliqua.
 					      </p>
 					    </div>
 					  </div>
@@ -95,11 +94,11 @@ export default function About(){
 					  <div className="col-sm-6 col-lg-3">
 					    <div className="hover-team">
 					      <div className="our-team">
-					        {" "}
+					        
 					        <img src="images/img-1.jpg" alt="" />
 					        <div className="team-content">
-					          <h3 className="title">Williamson</h3>{" "}
-					          <span className="post">Web Developer</span>{" "}
+					          <h3 className="title">Williamson</h3>
+					          <span className="post">Web Developer</span>
 					        </div>
 					        <ul className="social">
 					          <li>
@@ -116,8 +115,7 @@ export default function About(){
 					          </li>
 					        </ul>
 					        <div className="icon">
-					          {" "}
-					          <i className="fa fa-plus" aria-hidden="true" />{" "}
+					          <i className="fa fa-plus" aria-hidden="true" />
 					        </div>
 					      </div>
 					      <div className="team-description">
@@ -125,20 +123,20 @@ export default function About(){
 					          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
 					          urna diam, maximus ut ullamcorper quis, placerat id eros. Duis
 					          semper justo sed condimentum rutrum. Nunc tristique purus turpis.
-					          Maecenas vulputate.{" "}
+					          Maecenas vulputate.
 					        </p>
 					      </div>
-					      <hr className="my-0" />{" "}
+					      <hr className="my-0" />
 					    </div>
 					  </div>
 					  <div className="col-sm-6 col-lg-3">
 					    <div className="hover-team">
 					      <div className="our-team">
-					        {" "}
+					        
 					        <img src="images/img-2.jpg" alt="" />
 					        <div className="team-content">
-					          <h3 className="title">Kristiana</h3>{" "}
-					          <span className="post">Web Developer</span>{" "}
+					          <h3 className="title">Kristiana</h3>
+					          <span className="post">Web Developer</span>
 					        </div>
 					        <ul className="social">
 					          <li>
@@ -155,8 +153,7 @@ export default function About(){
 					          </li>
 					        </ul>
 					        <div className="icon">
-					          {" "}
-					          <i className="fa fa-plus" aria-hidden="true" />{" "}
+					          <i className="fa fa-plus" aria-hidden="true" />
 					        </div>
 					      </div>
 					      <div className="team-description">
@@ -164,20 +161,20 @@ export default function About(){
 					          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
 					          urna diam, maximus ut ullamcorper quis, placerat id eros. Duis
 					          semper justo sed condimentum rutrum. Nunc tristique purus turpis.
-					          Maecenas vulputate.{" "}
+					          Maecenas vulputate.
 					        </p>
 					      </div>
-					      <hr className="my-0" />{" "}
+					      <hr className="my-0" />
 					    </div>
 					  </div>
 					  <div className="col-sm-6 col-lg-3">
 					    <div className="hover-team">
 					      <div className="our-team">
-					        {" "}
+					        
 					        <img src="images/img-3.jpg" alt="" />
 					        <div className="team-content">
-					          <h3 className="title">Steve Thomas</h3>{" "}
-					          <span className="post">Web Developer</span>{" "}
+					          <h3 className="title">Steve Thomas</h3>
+					          <span className="post">Web Developer</span>
 					        </div>
 					        <ul className="social">
 					          <li>
@@ -194,8 +191,8 @@ export default function About(){
 					          </li>
 					        </ul>
 					        <div className="icon">
-					          {" "}
-					          <i className="fa fa-plus" aria-hidden="true" />{" "}
+					          
+					          <i className="fa fa-plus" aria-hidden="true" />
 					        </div>
 					      </div>
 					      <div className="team-description">
@@ -203,20 +200,20 @@ export default function About(){
 					          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
 					          urna diam, maximus ut ullamcorper quis, placerat id eros. Duis
 					          semper justo sed condimentum rutrum. Nunc tristique purus turpis.
-					          Maecenas vulputate.{" "}
+					          Maecenas vulputate.
 					        </p>
 					      </div>
-					      <hr className="my-0" />{" "}
+					      <hr className="my-0" />
 					    </div>
 					  </div>
 					  <div className="col-sm-6 col-lg-3">
 					    <div className="hover-team">
 					      <div className="our-team">
-					        {" "}
+					        
 					        <img src="images/img-1.jpg" alt="" />
 					        <div className="team-content">
-					          <h3 className="title">Williamson</h3>{" "}
-					          <span className="post">Web Developer</span>{" "}
+					          <h3 className="title">Williamson</h3>
+					          <span className="post">Web Developer</span>
 					        </div>
 					        <ul className="social">
 					          <li>
@@ -233,8 +230,8 @@ export default function About(){
 					          </li>
 					        </ul>
 					        <div className="icon">
-					          {" "}
-					          <i className="fa fa-plus" aria-hidden="true" />{" "}
+					          
+					          <i className="fa fa-plus" aria-hidden="true" />
 					        </div>
 					      </div>
 					      <div className="team-description">
@@ -242,10 +239,10 @@ export default function About(){
 					          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
 					          urna diam, maximus ut ullamcorper quis, placerat id eros. Duis
 					          semper justo sed condimentum rutrum. Nunc tristique purus turpis.
-					          Maecenas vulputate.{" "}
+					          Maecenas vulputate.
 					        </p>
 					      </div>
-					      <hr className="my-0" />{" "}
+					      <hr className="my-0" />
 					    </div>
 					  </div>
 					</div>
