@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 
-export default function Header() {
+export default function Headers() {
 	return (
 		<header className="main-header">
 		  {/* Start Navigation */}

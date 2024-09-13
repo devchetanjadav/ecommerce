@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Script from 'next/script';
-import Header from './component/Headers';
+import Header from './component/headers';
 import MainTop from './component/main-top';
 import TopSearch from './component/top-search';
 import Footer from './component/footers';
